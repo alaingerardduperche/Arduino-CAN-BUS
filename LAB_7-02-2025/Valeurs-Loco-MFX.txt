@@ -1,0 +1,7 @@
+Voici les valeurs trouvées pour mes locomotives:
+data[3]=5 ---> BR74
+data[3]=6 ---> V200 diesel
+data[3]=7 ---> BR24
+data[3]=8 ---> T3 Pruss..
+data[3]=9 ---> G12 Wurt..
+data[3]=10 ---> ES44AC UP
