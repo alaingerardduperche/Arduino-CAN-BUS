@@ -1,7 +1,7 @@
 # Arduino-CAN-BUS
-How to drive a CAN-BUS with Arduino
+Comment piloter un CAN-BUS avec Arduino UNO
 
-This Repository provide some LAB to explore CAN Protocol With MARKLIN SYSTEM.
-It is Based on the work of Cristophe Bobille and Pierre Molinaro.
+Ce dépot fourni les expérimentations pour du protole CAN adapté au système MARKLIN (r).
+Il est basé sur les travaux de Cristophe Bobille et Pierre Molinaro.
 
-PHASE-1 : Create Mini LAB for study (To Do First)
+PHASE-1 : (To Do First) comment créer un environnement de développement minimaliste.
